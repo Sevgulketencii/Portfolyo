@@ -1,1 +1,5 @@
-# NetMVCExamples-master
+![1](https://github.com/Sevgulketencii/Portfolyo/assets/114435614/ebafc0f5-bfb6-489d-94ac-b620fed5112d)
+![2](https://github.com/Sevgulketencii/Portfolyo/assets/114435614/b3cc2c17-fc65-4862-8200-8a71d4588987)
+![3](https://github.com/Sevgulketencii/Portfolyo/assets/114435614/8c23bf36-5d0e-4259-b1d8-e287726f1932)
+![4](https://github.com/Sevgulketencii/Portfolyo/assets/114435614/2a84c797-c8c7-468b-b097-ccaec640e732)
+![5](https://github.com/Sevgulketencii/Portfolyo/assets/114435614/3f41841a-0bc6-4d06-880b-b78b21b387e3)
